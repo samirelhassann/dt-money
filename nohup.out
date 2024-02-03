@@ -1,0 +1,144 @@
+
+  \{^_^}/ hi!
+
+  Loading server.json
+  Done
+
+  Resources
+  http://localhost:3333/transactions
+
+  Home
+  http://localhost:3333
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred Error: listen EADDRINUSE: address already in use ::1:3333
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (node:net:2075:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:8) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::1',
+  port: 3333
+}
+
+  \{^_^}/ hi!
+
+  Loading server.json
+  Done
+
+  Resources
+  http://localhost:3333/transactions
+
+  Home
+  http://localhost:3333
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+
+  \{^_^}/ hi!
+
+  Loading server.json
+  Done
+
+  Resources
+  http://localhost:3333/transactions
+
+  Home
+  http://localhost:3333
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred Error: listen EADDRINUSE: address already in use ::1:3333
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (node:net:2075:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:8) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::1',
+  port: 3333
+}
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 520.615 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [0m-[0m - ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [32m200[0m 507.670 ms - 836[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [0m-[0m - ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [32m200[0m 504.289 ms - 836[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 504.460 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 507.640 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 504.587 ms - -[0m
+
+  \{^_^}/ hi!
+
+  Loading server.json
+  Done
+
+  Resources
+  http://localhost:3333/transactions
+
+  Home
+  http://localhost:3333
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred Error: listen EADDRINUSE: address already in use ::1:3333
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (node:net:2075:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:8) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::1',
+  port: 3333
+}
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 504.396 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 507.292 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 507.041 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 506.653 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 505.005 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 505.135 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 505.490 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 504.844 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc&q= [32m200[0m 506.502 ms - 836[0m
+[0mGET /transactions?_sort=createdAt&_order=desc&q=test [32m200[0m 509.230 ms - 164[0m
+[0mGET /transactions?_sort=createdAt&_order=desc&q= [36m304[0m 505.198 ms - -[0m
+[0mPOST /transactions [32m201[0m 518.502 ms - 137[0m
+
+  \{^_^}/ hi!
+
+  Loading server.json
+  Done
+
+  Resources
+  http://localhost:3333/transactions
+
+  Home
+  http://localhost:3333
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred Error: listen EADDRINUSE: address already in use ::1:3333
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (node:net:2075:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:8) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::1',
+  port: 3333
+}
+[0mGET /transactions?_sort=createdAt&_order=desc [32m200[0m 506.564 ms - 991[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 507.192 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 506.359 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 503.526 ms - -[0m
+[0mGET /transactions?_sort=createdAt&_order=desc [36m304[0m 509.347 ms - -[0m
